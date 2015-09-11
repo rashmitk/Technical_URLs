@@ -1,14 +1,13 @@
 ======================================================================
-Language                                                        Year                 Inventor
-
-Lamda Calculus                                               1929                 Alonzo Church
+Language                                 Year                 Inventor
+Lamda Calculus                           1929                 Alonzo Church
 FORTRAN(Formula Translating System)      1957                 John Backus & IBM
-LISP (List Processing)                                    1958                 John McCarthy
-COBOL(Common Business Oriented Lang)  1959                 US Dept of Defense
-C Language                                                     1972                 Dennis Ritchie
-C++                                                                 1983                 Bjourn StrouStrup
-JAVA                                                              1995                 James Gosling & Sun Microsystem
-Scala (Scalable Language)                             2003                 Martin Odersky
+LISP (List Processing)                   1958                 John McCarthy
+COBOL(Common Business Oriented Lang)     1959                 US Dept of Defense
+C Language                               1972                 Dennis Ritchie
+C++                                      1983                 Bjourn StrouStrup
+JAVA                                     1995                 James Gosling & Sun Microsystem
+Scala (Scalable Language)                2003                 Martin Odersky
 ======================================================================
 
 List of Scala book
@@ -56,11 +55,11 @@ https://www.youtube.com/watch?v=__dDAD0Y_WU
 
 Online Blogs and Tutorials
 
-------------------------------------------------------------------------------------
+------------------------------------
 Online Scala REPL:
 
 http://www.simplyscala.com/
-------------------------------------------------------------------------------------
+------------------------------------
 
 Various Scala important concepts tutorial on JavaBeat easy way
 http://www.javabeat.net/tag/scala/
