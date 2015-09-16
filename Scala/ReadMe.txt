@@ -169,8 +169,19 @@ http://alvinalexander.com/scala/scala-2.10-implicit-class-example
 Package Object
 http://www.scala-lang.org/docu/files/packageobjects/packageobjects.html
 
-Function Literals
+Function Literals, Closure, Partial Function
+
 http://docs.scala-lang.org/tutorials/tour/anonymous-function-syntax.html
+http://danielwestheide.com/blog/2013/01/23/the-neophytes-guide-to-scala-part-10-staying-dry-with-higher-order-functions.html
+http://danielwestheide.com/blog/2013/01/30/the-neophytes-guide-to-scala-part-11-currying-and-partially-applied-functions.html
+
+(Very good series of blogs)
+http://www.slideshare.net/mariogleichmann/functional-scala-i
+http://www.slideshare.net/mariogleichmann/functional-scala-ii-in-practice
+https://gleichmann.wordpress.com/2010/10/28/functional-scala-introduction/
+https://gleichmann.wordpress.com/2010/10/31/functional-scala-functions/
+https://gleichmann.wordpress.com/2010/11/08/functional-scala-functions-as-objects-as-functions/
+https://gleichmann.wordpress.com/2010/11/15/functional-scala-closures/
 
 -----------------------------------------------------------------------------------------------------------------------
 Some examples
