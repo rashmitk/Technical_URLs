@@ -9,6 +9,20 @@ https://vimeo.com/78892176
 
 Blogs and Tutorials URLs
 
+Slick with Play Framework
+http://queirozf.com/entries/scala-slick-simple-example-on-connecting-to-a-postgresql-database
+
+Play application deployment
+http://alvinalexander.com/scala/play-framework-deploying-application-production-server
+
+https://www.playframework.com/documentation/1.2/deployment
+
+(How to deploy Play web application on CD or other server)
+https://www.playframework.com/documentation/2.4.x/Production
+
+Presentation slides
+https://speakerdeck.com/spinscale/play-framework-introduction
+
 
 
 Known Issues :

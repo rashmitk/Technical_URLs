@@ -1,13 +1,12 @@
 ======================================================================
-Language                                 Year                 Inventor
-Lamda Calculus                           1929                 Alonzo Church
-FORTRAN(Formula Translating System)      1957                 John Backus & IBM
-LISP (List Processing)                   1958                 John McCarthy
-COBOL(Common Business Oriented Lang)     1959                 US Dept of Defense
-C Language                               1972                 Dennis Ritchie
-C++                                      1983                 Bjourn StrouStrup
-JAVA                                     1995                 James Gosling & Sun Microsystem
-Scala (Scalable Language)                2003                 Martin Odersky
+Lamda Calculus (1929,Alonzo Church)
+FORTRAN(Formula Translating System)(1957,John Backus & IBM)
+LISP (List Processing)(1958,John McCarthy)
+COBOL(Common Business Oriented Lang)(1959,US Dept of Defense)
+C Language(1972,Dennis Ritchie)
+C++(1983,Bjourn StrouStrup)
+JAVA(1995,James Gosling & Sun Microsystem)
+Scala (Scalable Language)(2003,Martin Odersky)
 ======================================================================
 
 List of Scala book
@@ -51,15 +50,19 @@ http://nofluffjuststuff.com/conference/speaker/venkat_subramaniam (various video
 Joy of Functional Programming
 https://www.youtube.com/watch?v=__dDAD0Y_WU
 
+https://www.parleys.com/tutorial/scala-advanced-concepts-best-practices-part-1-2
+
 
 
 Online Blogs and Tutorials
 
-------------------------------------
+------------------------------------------------------------------------------------
 Online Scala REPL:
 
 http://www.simplyscala.com/
-------------------------------------
+http://scala-exercises.47deg.com/koans#asserts (Too good online learning scala)
+https://github.com/lauris/awesome-scala
+------------------------------------------------------------------------------------
 
 Various Scala important concepts tutorial on JavaBeat easy way
 http://www.javabeat.net/tag/scala/
@@ -182,6 +185,12 @@ https://gleichmann.wordpress.com/2010/10/28/functional-scala-introduction/
 https://gleichmann.wordpress.com/2010/10/31/functional-scala-functions/
 https://gleichmann.wordpress.com/2010/11/08/functional-scala-functions-as-objects-as-functions/
 https://gleichmann.wordpress.com/2010/11/15/functional-scala-closures/
+
+(Scala closure similarity in Java's Anonymous Inner class)
+http://javapapers.com/core-java/java-closures/
+
+Pattern Match
+http://www.slideshare.net/czechscala/scala-essentials-pattern-matching-and-case-classes
 
 -----------------------------------------------------------------------------------------------------------------------
 Some examples
